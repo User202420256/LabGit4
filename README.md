@@ -1,5 +1,5 @@
 # Proyectos de repositorio
-## Introducionb "
+## Introducion "
 ### Aqui incluidos ficheros para conocer el uso del git
 *Entendemos* git para usarlo en proyectos de web ""Profesional""que podemos crear con " Herramientas source"
 Los proyectos Web contienen todos los recursos Web creados y utilizados al desarrollar la aplicación Web. El primer paso para crear o importar una aplicación Web consiste en crear un proyecto Web estático o dinámico. Los proyectos Web estáticos están pensados para contener solamente recursos simples de sitio Web, como por ejemplo archivos HTML. Los proyectos Web dinámicos se utilizan para estructurar aplicaciones Web que utilizarán tecnologías Web dinámicas más complicadas, como por ejemplo archivos de JavaServer Pages y, posiblemente, recursos de acceso a datos.
